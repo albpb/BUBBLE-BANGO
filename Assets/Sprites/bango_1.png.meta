@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d96bf4e2d959a774b96e6a8b56447770
+guid: 1fa14c1372cbb5b45a5259a58fae8a26
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8848993070067138329
-    second: bullets_0
+      213: 564713196771783181
+    second: bango_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bullets_0
+      name: bango_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 196
-        height: 28
+        x: 3
+        y: 1
+        width: 123
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91fbe313050fdca70800000000000000
-      internalID: 8848993070067138329
+      spriteID: d02be8519a346d700800000000000000
+      internalID: 564713196771783181
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bullets_0: 8848993070067138329
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
