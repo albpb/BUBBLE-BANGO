@@ -9,6 +9,8 @@ public class ScoreManager : MonoBehaviour
     // Método para añadir puntos
     public void AddScore(int points)
     {
+        Debug.Log("¡+asfgafasfsafsf!");
+
         currentScore += points;
         UpdateScoreText();
     }
@@ -24,7 +26,7 @@ public class ScoreManager : MonoBehaviour
     {
         if (scoreText != null)
         {
-            scoreText.text = "Score: " + currentScore;
+            scoreText.text = currentScore.ToString();
         }
     }
 

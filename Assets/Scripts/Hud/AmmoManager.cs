@@ -7,7 +7,7 @@ public class AmmoManager : MonoBehaviour
 
     public Sprite[] slicedSprites; // Aquí guardaremos las partes del sprite sliced, añadir desde unity
 
-    public SpriteRenderer targetSpriteRenderer; // SpriteRenderer del objeto
+    public Image image; // SpriteRenderer del objeto
 
     private void Start()
     {
@@ -16,9 +16,9 @@ public class AmmoManager : MonoBehaviour
 
     public void ShowSprite()
     {
-        if (slicedSprites.Length == 0 || targetSpriteRenderer == null)
+        if (slicedSprites.Length == 0 || image == null)
             return;
-        targetSpriteRenderer.sprite = slicedSprites[currentAmmo];
+        image.sprite = slicedSprites[currentAmmo];
     }
 
     public void AddAmmo() 
@@ -34,7 +34,11 @@ public class AmmoManager : MonoBehaviour
     {
         if (currentAmmo < 6)
         {
-            currentAmmo += ammo;
+            if (currentAmmo + ammo > 6) currentAmmo = 6;
+            else
+            {
+                currentAmmo += ammo;
+            }
             ShowSprite();
         }
     }
