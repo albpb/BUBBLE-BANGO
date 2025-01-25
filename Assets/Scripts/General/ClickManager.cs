@@ -1,20 +1,16 @@
 using UnityEngine;
 
-
-public class Button : MonoBehaviour
+public class ClickManager : MonoBehaviour
 {
+
     public AmmoManager ammoManager;
-    public ScoreManager scoreManager;
-
-
     // Update is called once per frame
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
             ammoManager.SubAmmo();
-            scoreManager.AddScore(100);
+            // efecto de sonido de bang bang
         }
     }
-
 }
