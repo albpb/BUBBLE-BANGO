@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameOverManager : MonoBehaviour
 {
@@ -18,5 +19,15 @@ public class GameOverManager : MonoBehaviour
         pointsText.text = "¡ " + scoreManager.currentScore.ToString() + " points !";
         loseReason.text = loseReasonText;
         gameOver = true;
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 }
