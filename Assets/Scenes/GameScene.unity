@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 90613426}
   - component: {fileID: 90613425}
   m_Layer: 5
-  m_Name: Text (Legacy) (1)
+  m_Name: points text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -333,7 +333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8808f2661262f5459491022f0ca8e78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointsText: {fileID: 0}
+  pointsText: {fileID: 90613425}
 --- !u!114 &737030488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -384,7 +384,7 @@ GameObject:
   - component: {fileID: 913347599}
   - component: {fileID: 913347598}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: game over
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -565,7 +565,7 @@ GameObject:
   - component: {fileID: 1097598432}
   - component: {fileID: 1097598431}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: restart button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1083,7 +1083,7 @@ GameObject:
   - component: {fileID: 2107230091}
   - component: {fileID: 2107230090}
   m_Layer: 5
-  m_Name: Button (Legacy) (1)
+  m_Name: menu button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
