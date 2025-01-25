@@ -141,4 +141,4 @@ MonoBehaviour:
   maxFloatingSpeed: 10
   oscillationSpeed: 4
   oscillationAmplitude: 0.02
-  maxLifeTimer: 5
+  maxLifeTimer: 7

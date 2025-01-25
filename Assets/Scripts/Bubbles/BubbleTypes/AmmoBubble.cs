@@ -14,13 +14,16 @@ public class AmmoBubble : Bubble
 
     protected override void onClick()
     {
-        Debug.Log("¡+1 Bullet! Ammo Bubble clicked!");
+        if (!FindAnyObjectByType<GameOverManager>().gameOver)
+        {
+            Debug.Log("¡+1 Bullet! Ammo Bubble clicked!");
 
-        scoreManager.AddScore(100);
+            scoreManager.AddScore(100);
 
-        ammoManager.AddAmmo(Random.Range(2, 4));
+            ammoManager.AddAmmo(Random.Range(2, 4));
 
 
-        Destroy(gameObject);
+            Destroy(gameObject);
+        }
     }
 }

@@ -7,10 +7,13 @@ public class ClickManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (!FindAnyObjectByType<GameOverManager>().gameOver)
         {
-            ammoManager.SubAmmo();
-            // efecto de sonido de bang bang
+            if (Input.GetMouseButtonDown(0))
+            {
+                ammoManager.SubAmmo();
+                // efecto de sonido de bang bang
+            }
         }
     }
 }

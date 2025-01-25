@@ -2,10 +2,15 @@ using UnityEngine;
 
 public class BoomBubble : Bubble
 {
-
     protected override void onClick()
     {
-        Debug.Log("¡Boom! Explosive Bubble clicked!");
-        Destroy(gameObject);
+        if (!FindAnyObjectByType<GameOverManager>().gameOver)
+        {
+            Debug.Log("¡Boom! Explosive Bubble clicked!");
+
+            FindAnyObjectByType<GameOverManager>().ShowGameOver("You got poisoned by Bongo!");
+
+            Destroy(gameObject);
+        }
     }
 }

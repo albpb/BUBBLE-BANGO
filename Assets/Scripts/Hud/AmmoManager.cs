@@ -51,6 +51,11 @@ public class AmmoManager : MonoBehaviour
             currentAmmo--;
             ShowSprite();
         }
+
+        if(currentAmmo == 0)
+        {
+            FindAnyObjectByType<GameOverManager>().ShowGameOver("You ran out of bubblets!");
+        }
     }
 
     // Método para reiniciar la puntuación

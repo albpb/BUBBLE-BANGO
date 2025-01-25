@@ -11,10 +11,13 @@ public class PointBubble : Bubble
 
     protected override void onClick()
     {
-        Debug.Log("¡+1 Point! Point Bubble clicked!");
+        if (!FindAnyObjectByType<GameOverManager>().gameOver)
+        {
+            Debug.Log("¡+1 Point! Point Bubble clicked!");
 
-        scoreManager.AddScore(50);
+            scoreManager.AddScore(50);
 
-        Destroy(gameObject);
+            Destroy(gameObject);
+        }
     }
 }
