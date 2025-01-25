@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -150,7 +150,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 29
+        width: 28
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -158,10 +158,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f841b81e6683f7ae0800000000000000
-      internalID: -1549457732270353265
+      spriteID: 11bfdf5090a91cf45a78ed47ac37190a
+      internalID: 1706000679
       vertices: []
       indices: 
       edges: []
@@ -170,20 +170,20 @@ TextureImporter:
       name: dobule_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 1
-        width: 26
-        height: 27
+        x: 28
+        y: 0
+        width: 28
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64ceeeffa736907e0800000000000000
-      internalID: -1798797196226794426
+      spriteID: a7a2edf33a3db7649bc0996ad5e2eeb3
+      internalID: -1714264759
       vertices: []
       indices: 
       edges: []
@@ -192,20 +192,20 @@ TextureImporter:
       name: dobule_2
       rect:
         serializedVersion: 2
-        x: 57
-        y: 1
-        width: 25
-        height: 24
+        x: 56
+        y: 0
+        width: 28
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b8f2aace6f066b050800000000000000
-      internalID: 5815942582444371851
+      spriteID: 83340cf597a321541838b40bf3f90282
+      internalID: 266711043
       vertices: []
       indices: 
       edges: []
@@ -214,7 +214,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fb9f99abd03d34443b62c27a54faa0bd
     internalID: 0
     vertices: []
     indices: 
@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dobule_0: 1706000679
+      dobule_1: -1714264759
+      dobule_2: 266711043
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
