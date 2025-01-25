@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 7870193660807077101}
   - component: {fileID: 7278814511452629051}
   - component: {fileID: 1467380753516102103}
-  - component: {fileID: 3040355043290624448}
   - component: {fileID: 6286891549550983559}
   m_Layer: 0
   m_Name: BombBubble
@@ -126,23 +125,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5417135
---- !u!114 &3040355043290624448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6768954339841207251}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c95bf8c3b16fa0845b4dc7ca623b20c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  minFloatingSpeed: 6
-  maxFloatingSpeed: 10
-  oscillationSpeed: 4
-  oscillationAmplitude: 0.02
-  maxLifeTimer: 5
 --- !u!114 &6286891549550983559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -160,3 +142,4 @@ MonoBehaviour:
   oscillationSpeed: 4
   oscillationAmplitude: 0.02
   maxLifeTimer: 5
+  GameOverScreen: {fileID: 0}
