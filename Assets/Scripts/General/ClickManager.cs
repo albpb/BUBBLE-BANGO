@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class ClickManager : MonoBehaviour
 {
+    [SerializeField] private AudioClip shot;
 
     public AmmoManager ammoManager;
     // Update is called once per frame
@@ -13,6 +14,7 @@ public class ClickManager : MonoBehaviour
             {
                 ammoManager.SubAmmo();
                 // efecto de sonido de bang bang
+                ControladorSonidos.Instance.EjecSonido(shot);
             }
         }
     }
