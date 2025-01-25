@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MENU.unity
     guid: 17b49544be964cd4cbc2fa0a9c2de292
   - enabled: 1
+    path: Assets/Scenes/AlexiaTutorial.unity
+    guid: 7de3736f0057dfa4da38f54c20f915be
+  - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 6c77d394d09520b48bdc710d62beef7e
   m_configObjects:
