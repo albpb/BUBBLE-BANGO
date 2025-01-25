@@ -4,6 +4,7 @@ using UnityEngine;
 public class Button : MonoBehaviour
 {
     public AmmoManager ammoManager;
+    public ScoreManager scoreManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,6 +18,7 @@ public class Button : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             ammoManager.SubAmmo();
+            scoreManager.AddScore(100);
         }
     }
 
