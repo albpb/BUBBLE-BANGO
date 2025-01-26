@@ -143,6 +143,8 @@ MonoBehaviour:
   oscillationSpeed: 4
   oscillationAmplitude: 0.02
   maxLifeTimer: 7
+  reload: {fileID: 8300000, guid: fe42ca3364b97d14c89ac11a0e49fe56, type: 3}
+  bubblePop: {fileID: 8300000, guid: b2762a4a0c031d84fbc465ed4113f4ae, type: 3}
 --- !u!95 &-7830543818802659987
 Animator:
   serializedVersion: 7

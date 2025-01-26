@@ -3,6 +3,8 @@ using System.Collections;
 
 public class PointBubble : Bubble
 {
+    [SerializeField] private AudioClip bubblePop;
+
     private ScoreManager scoreManager;
     private Animator animator;
     private void Awake()
@@ -31,6 +33,8 @@ public class PointBubble : Bubble
         float animationDuration = stateInfo.length;
 
         yield return new WaitForSeconds(0.2f);
+
+        ControladorSonidos.Instance.EjecSonido(bubblePop);
 
         Destroy(gameObject);
     }

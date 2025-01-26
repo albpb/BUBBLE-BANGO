@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class x2Bubble : Bubble
 {
+    [SerializeField] private AudioClip bubblePop;
+
     public ScoreManager scoreManager;
 
     private void Awake()
@@ -17,6 +19,8 @@ public class x2Bubble : Bubble
             Debug.Log("¡x2 Points! x2 Bubble clicked!");
 
             scoreManager.ActivateTimer();
+
+            ControladorSonidos.Instance.EjecSonido(bubblePop);
 
             Destroy(gameObject);
         }

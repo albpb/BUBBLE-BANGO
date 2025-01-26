@@ -4,6 +4,9 @@ using System.Collections;
 
 public class AmmoBubble : Bubble
 {
+    [SerializeField] private AudioClip reload;
+    [SerializeField] private AudioClip bubblePop;
+
     private Animator animator;
 
     private AmmoManager ammoManager;
@@ -33,6 +36,10 @@ public class AmmoBubble : Bubble
     }
     private IEnumerator DestroyAfterAnimation()
     {
+
+        ControladorSonidos.Instance.EjecSonido(reload);
+        ControladorSonidos.Instance.EjecSonido(bubblePop);
+
         // Obtener la duración de la animación activa
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
         float animationDuration = stateInfo.length;

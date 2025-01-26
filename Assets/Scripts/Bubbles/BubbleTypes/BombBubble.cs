@@ -1,9 +1,11 @@
 using UnityEngine;
 using System.Collections;
 
-
 public class BoomBubble : Bubble
 {
+    [SerializeField] private AudioClip boom;
+    [SerializeField] private AudioClip bubblePop;
+
     private Animator animator;
 
     private void Awake()
@@ -18,21 +20,22 @@ public class BoomBubble : Bubble
             Debug.Log("¡Boom! Explosive Bubble clicked!");
 
             animator.SetBool("Clicked", true);
-            DestroyAfterAnimation();
 
             FindAnyObjectByType<GameOverManager>().ShowGameOver("You got poisoned by Bongo!");
 
-            Destroy(gameObject);
+            StartCoroutine(DestroyAfterAnimation());
         }
     }
 
     private IEnumerator DestroyAfterAnimation()
     {
-        // Obtener la duración de la animación activa
+        ControladorSonidos.Instance.EjecSonido(boom);
+        ControladorSonidos.Instance.EjecSonido(bubblePop);
+
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
-        float animationDuration = stateInfo.length;
 
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(stateInfo.length);
 
+        Destroy(gameObject);
     }
 }

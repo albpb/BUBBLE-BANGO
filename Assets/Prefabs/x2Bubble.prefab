@@ -142,5 +142,5 @@ MonoBehaviour:
   oscillationSpeed: 4
   oscillationAmplitude: 0.02
   maxLifeTimer: 5
+  bubblePop: {fileID: 8300000, guid: b2762a4a0c031d84fbc465ed4113f4ae, type: 3}
   scoreManager: {fileID: 0}
-  isTimerActive: 0

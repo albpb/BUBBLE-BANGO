@@ -5,6 +5,7 @@ public class ScoreManager : MonoBehaviour
 {
     public Text scoreText; // Texto de UI para mostrar la puntuación en pantalla
     public Text x2Timer;
+    public GameObject x2Image;
     public int currentScore = 0;
 
     private float timer = 0f;
@@ -38,6 +39,7 @@ public class ScoreManager : MonoBehaviour
         isTimerActive = false;
         timer = 0f;
         x2Timer.text = "";
+        x2Image.SetActive(false);
     }
 
     // Método para añadir puntos
@@ -90,6 +92,7 @@ public class ScoreManager : MonoBehaviour
         if (x2Timer != null)
         {
             x2Timer.text = Mathf.Ceil(timer).ToString() + " - x2!";
+            x2Image.SetActive(true);
         }
     }
 }

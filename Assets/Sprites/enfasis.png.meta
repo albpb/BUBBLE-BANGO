@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: 50a55a86ce6a7324c9fc496d916f45e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8089880843757642890
+    second: enfasis_0
+  - first:
+      213: 5865472684627749769
+    second: enfasis_1
+  - first:
+      213: -1146225859241888767
+    second: enfasis_2
+  - first:
+      213: -461881545188444319
+    second: enfasis_3
+  - first:
+      213: -4351745676177841898
+    second: enfasis_4
+  - first:
+      213: -4214573305062449543
+    second: enfasis_5
+  - first:
+      213: 7185591115789718493
+    second: enfasis_6
+  - first:
+      213: 6350595378666204352
+    second: enfasis_7
+  - first:
+      213: -529239209007626235
+    second: enfasis_8
+  - first:
+      213: -75691483449949132
+    second: enfasis_9
+  - first:
+      213: 43096662126213142
+    second: enfasis_10
+  - first:
+      213: 1345833409227528571
+    second: enfasis_11
+  - first:
+      213: 2859102485413488704
+    second: enfasis_12
+  - first:
+      213: 6182105320869177593
+    second: enfasis_13
+  - first:
+      213: 5904614793693945037
+    second: enfasis_14
+  - first:
+      213: -3356893717567176429
+    second: enfasis_15
+  - first:
+      213: -4440669868073672886
+    second: enfasis_16
+  - first:
+      213: -527665027299733858
+    second: enfasis_17
+  - first:
+      213: 8448150607900672051
+    second: enfasis_18
+  - first:
+      213: 3285410752349872473
+    second: enfasis_19
+  - first:
+      213: 4124304238531821132
+    second: enfasis_20
+  - first:
+      213: -1659669296400272837
+    second: enfasis_21
+  - first:
+      213: 5066963650375843622
+    second: enfasis_22
+  - first:
+      213: -973713384918694554
+    second: enfasis_23
+  - first:
+      213: -212308653076966213
+    second: enfasis_24
+  - first:
+      213: 6446241099410310258
+    second: enfasis_25
+  - first:
+      213: -5211479637596564353
+    second: enfasis_26
+  - first:
+      213: -2288332120952504099
+    second: enfasis_27
+  - first:
+      213: -773758782509241570
+    second: enfasis_28
+  - first:
+      213: 3209455070476826008
+    second: enfasis_29
+  - first:
+      213: 3726319637941243427
+    second: enfasis_30
+  - first:
+      213: -5816063855422596771
+    second: enfasis_31
+  - first:
+      213: -7968506050728280630
+    second: enfasis_32
+  - first:
+      213: 7827575188726516245
+    second: enfasis_33
+  - first:
+      213: -2303898913539663862
+    second: enfasis_34
+  - first:
+      213: 5384863998681249744
+    second: enfasis_35
+  - first:
+      213: -1354690027829363965
+    second: enfasis_36
+  - first:
+      213: 1896228399395504738
+    second: enfasis_37
+  - first:
+      213: 1639782774459326087
+    second: enfasis_38
+  - first:
+      213: -6823693634259830213
+    second: enfasis_39
+  - first:
+      213: 2485692235949973946
+    second: enfasis_40
+  - first:
+      213: 1059523951851151062
+    second: enfasis_41
+  - first:
+      213: -4200552930372105922
+    second: enfasis_42
+  - first:
+      213: -1224865825118472094
+    second: enfasis_43
+  - first:
+      213: 7548907003558694185
+    second: enfasis_44
+  - first:
+      213: 5910294129365436589
+    second: enfasis_45
+  - first:
+      213: 6293343478922364065
+    second: enfasis_46
+  - first:
+      213: 4414792611830736196
+    second: enfasis_47
+  - first:
+      213: 9155825181116316657
+    second: enfasis_48
+  - first:
+      213: 331159375705535234
+    second: enfasis_49
+  - first:
+      213: -1116954744625347099
+    second: enfasis_50
+  - first:
+      213: -5337398210744423857
+    second: enfasis_51
+  - first:
+      213: 7787587439329535222
+    second: enfasis_52
+  - first:
+      213: 3341168505118478036
+    second: enfasis_53
+  - first:
+      213: -6783302803579325670
+    second: enfasis_54
+  - first:
+      213: -2248307473271966380
+    second: enfasis_55
+  - first:
+      213: 8106957512999754623
+    second: enfasis_56
+  - first:
+      213: -6418883321614936584
+    second: enfasis_57
+  - first:
+      213: -1312036108401933746
+    second: enfasis_58
+  - first:
+      213: -6576470231162450009
+    second: enfasis_59
+  - first:
+      213: -2792798439825537911
+    second: enfasis_60
+  - first:
+      213: -8030829087744684327
+    second: enfasis_61
+  - first:
+      213: -803158611955267519
+    second: enfasis_62
+  - first:
+      213: -2492226531524418009
+    second: enfasis_63
+  - first:
+      213: 1330124190301114283
+    second: enfasis_64
+  - first:
+      213: -6737024018371753688
+    second: enfasis_65
+  - first:
+      213: -4443274286725768630
+    second: enfasis_66
+  - first:
+      213: 2803658345283445692
+    second: enfasis_67
+  - first:
+      213: -8928513552999227662
+    second: enfasis_68
+  - first:
+      213: -4456330027325884249
+    second: enfasis_69
+  - first:
+      213: -5513734167216530741
+    second: enfasis_70
+  - first:
+      213: 161141546443286222
+    second: enfasis_71
+  - first:
+      213: 6515464108148324460
+    second: enfasis_72
+  - first:
+      213: 1424817830586911422
+    second: enfasis_73
+  - first:
+      213: -3469712886059539394
+    second: enfasis_74
+  - first:
+      213: -8809433351290063330
+    second: enfasis_75
+  - first:
+      213: 1139670583130244260
+    second: enfasis_76
+  - first:
+      213: 8741224240863396014
+    second: enfasis_77
+  - first:
+      213: 6661146965252840487
+    second: enfasis_78
+  - first:
+      213: -2551020069766763185
+    second: enfasis_79
+  - first:
+      213: 9160068918133476927
+    second: enfasis_80
+  - first:
+      213: -3033909228397177996
+    second: enfasis_81
+  - first:
+      213: 806716452342398869
+    second: enfasis_82
+  - first:
+      213: -5380240664990595005
+    second: enfasis_83
+  - first:
+      213: -5696669980003572425
+    second: enfasis_84
+  - first:
+      213: 6169185720991568549
+    second: enfasis_85
+  - first:
+      213: 409399404161240102
+    second: enfasis_86
+  - first:
+      213: -4476781039230112149
+    second: enfasis_87
+  - first:
+      213: 1240002519364148282
+    second: enfasis_88
+  - first:
+      213: 152325969025402632
+    second: enfasis_89
+  - first:
+      213: 8377483648693165376
+    second: enfasis_90
+  - first:
+      213: -2099655172477512801
+    second: enfasis_91
+  - first:
+      213: 2929376933105783938
+    second: enfasis_92
+  - first:
+      213: 5604823814325217683
+    second: enfasis_93
+  - first:
+      213: 1615237499626849519
+    second: enfasis_94
+  - first:
+      213: 3486662799931026047
+    second: enfasis_95
+  - first:
+      213: 7116987805839339706
+    second: enfasis_96
+  - first:
+      213: -3184064453597826065
+    second: enfasis_97
+  - first:
+      213: -2006742808477641589
+    second: enfasis_98
+  - first:
+      213: -1041149188888733241
+    second: enfasis_99
+  - first:
+      213: -5555330540693717774
+    second: enfasis_100
+  - first:
+      213: -5742647385067726399
+    second: enfasis_101
+  - first:
+      213: -5848502772181107467
+    second: enfasis_102
+  - first:
+      213: 8219900418899775755
+    second: enfasis_103
+  - first:
+      213: 396408756527398481
+    second: enfasis_104
+  - first:
+      213: -2415288548346227080
+    second: enfasis_105
+  - first:
+      213: 6798981638638493747
+    second: enfasis_106
+  - first:
+      213: 2152795438455732295
+    second: enfasis_107
+  - first:
+      213: -5680765907992103068
+    second: enfasis_108
+  - first:
+      213: 9167074595456034024
+    second: enfasis_109
+  - first:
+      213: 1106198408800192719
+    second: enfasis_110
+  - first:
+      213: -4278042949625610293
+    second: enfasis_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enfasis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 147
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b96901c38fabf80800000000000000
+      internalID: -8089880843757642890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 157
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b6efe7458566150800000000000000
+      internalID: 5865472684627749769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 230
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104358b67a9c710f0800000000000000
+      internalID: -1146225859241888767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 243
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fbba8e211799f0800000000000000
+      internalID: -461881545188444319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 254
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e3923d5e7b93c0800000000000000
+      internalID: -4351745676177841898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 249
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e98e7a8e3d285c0800000000000000
+      internalID: -4214573305062449543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 301
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd359d58c0958b360800000000000000
+      internalID: 7185591115789718493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 286
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cce2a999d8d12850800000000000000
+      internalID: 6350595378666204352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 292
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50844e15eb3c7a8f0800000000000000
+      internalID: -529239209007626235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 263
+        width: 25
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43481703ff613fef0800000000000000
+      internalID: -75691483449949132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 279
+        width: 12
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b9059f2c199000800000000000000
+      internalID: 43096662126213142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 281
+        width: 15
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b791cdbea5c5da210800000000000000
+      internalID: 1345833409227528571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 263
+        width: 15
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e183ff829da720800000000000000
+      internalID: 2859102485413488704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 333
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a57ef8004bc550800000000000000
+      internalID: 6182105320869177593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 342
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd4a1fed761f150800000000000000
+      internalID: 5904614793693945037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 317
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3110baf03fae961d0800000000000000
+      internalID: -3356893717567176429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 329
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f10bc58429f52c0800000000000000
+      internalID: -4440669868073672886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 294
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e076f047b5da8f0800000000000000
+      internalID: -527665027299733858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 282
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308be8b73cdd3570800000000000000
+      internalID: 8448150607900672051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 291
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95120132caf189d20800000000000000
+      internalID: 3285410752349872473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 278
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eb35b7ad87c3930800000000000000
+      internalID: 4124304238531821132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 268
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327077719ba7f8e0800000000000000
+      internalID: -1659669296400272837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 272
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff7761898715640800000000000000
+      internalID: 5066963650375843622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 247
+        width: 196
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c0ead5dcac72f0800000000000000
+      internalID: -973713384918694554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 260
+        width: 161
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41b96a76abd0df0800000000000000
+      internalID: -212308653076966213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 292
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27400e25026a57950800000000000000
+      internalID: 6446241099410310258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 310
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7410e691ea1da7b0800000000000000
+      internalID: -5211479637596564353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 171
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd082826f063e30e0800000000000000
+      internalID: -2288332120952504099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba2b2ac7e0345f0800000000000000
+      internalID: -773758782509241570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 148
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f856d1664a8c20800000000000000
+      internalID: 3209455070476826008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 152
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ecc03c7fb86b330800000000000000
+      internalID: 3726319637941243427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 117
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d591c820db0394fa0800000000000000
+      internalID: -5816063855422596771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 144
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd3acf37fd2a6190800000000000000
+      internalID: -7968506050728280630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_33
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 243
+        width: 188
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a84b0792221ac60800000000000000
+      internalID: 7827575188726516245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 218
+        width: 177
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a085f0c0528e600e0800000000000000
+      internalID: -2303898913539663862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 228
+        width: 172
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d77f2dc641eaba40800000000000000
+      internalID: 5384863998681249744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 241
+        width: 163
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b777ed89c233de0800000000000000
+      internalID: -1354690027829363965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 125
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620afebea1c05a10800000000000000
+      internalID: 1896228399395504738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 145
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed374debda1c610800000000000000
+      internalID: 1639782774459326087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 150
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a39d90bce5d41a0800000000000000
+      internalID: -6823693634259830213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 211
+        width: 112
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1aeb83be3fe7220800000000000000
+      internalID: 2485692235949973946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 204
+        width: 112
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de1b1dab6f24be00800000000000000
+      internalID: 1059523951851151062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 135
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c1f48d53a4b5c0800000000000000
+      internalID: -4200552930372105922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 121
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683c4c8507600fe0800000000000000
+      internalID: -1224865825118472094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 131
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d03958cea13c860800000000000000
+      internalID: 7548907003558694185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 143
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da847e25235950250800000000000000
+      internalID: 5910294129365436589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 160
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a440beec82765750800000000000000
+      internalID: 6293343478922364065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 201
+        width: 110
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a0396d7e744d30800000000000000
+      internalID: 4414792611830736196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 170
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb30a1e76001f70800000000000000
+      internalID: 9155825181116316657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f7f892b3889400800000000000000
+      internalID: 331159375705535234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_50
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 168
+        width: 179
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54b60e397cf70f0800000000000000
+      internalID: -1116954744625347099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 102
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae5c72b90cde5b0800000000000000
+      internalID: -5337398210744423857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4e7820481131c60800000000000000
+      internalID: 7787587439329535222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4f4a9d073e5e20800000000000000
+      internalID: 3341168505118478036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 148
+        width: 161
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133eb42a0edcd1a0800000000000000
+      internalID: -6783302803579325670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_55
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 160
+        width: 147
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455b4cdd3486cc0e0800000000000000
+      internalID: -2248307473271966380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_56
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 165
+        width: 139
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bd883d7e2b18070800000000000000
+      internalID: 8106957512999754623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 123
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55670b0ab8be6a0800000000000000
+      internalID: -6418883321614936584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 110
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4287326c16bacde0800000000000000
+      internalID: -1312036108401933746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 111
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af81ab1b2fabb4a0800000000000000
+      internalID: -6576470231162450009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 136
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9840fe8ad9cfd39d0800000000000000
+      internalID: -2792798439825537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_61
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 131
+        width: 179
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8a1d6e73cc8090800000000000000
+      internalID: -8030829087744684327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_62
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 135
+        width: 156
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1484c1c6f7b9ad4f0800000000000000
+      internalID: -803158611955267519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 117
+        width: 146
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726eea88c25d96dd0800000000000000
+      internalID: -2492226531524418009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_64
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 127
+        width: 143
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4d0e57ec857210800000000000000
+      internalID: 1330124190301114283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 138
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8294dad79584182a0800000000000000
+      internalID: -6737024018371753688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 172
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5514e3915652c0800000000000000
+      internalID: -4443274286725768630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 192
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ed2e196898e620800000000000000
+      internalID: 2803658345283445692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 198
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe58359a3c871480800000000000000
+      internalID: -8928513552999227662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 205
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87557637fe722c0800000000000000
+      internalID: -4456330027325884249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_70
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 219
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcadf19ecf74b73b0800000000000000
+      internalID: -5513734167216530741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_71
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 40
+        width: 156
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62f4af16d7c3200800000000000000
+      internalID: 161141546443286222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 57
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fcf006149b6a50800000000000000
+      internalID: 6515464108148324460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_73
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 84
+        width: 141
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba86c59448f5c310800000000000000
+      internalID: 1424817830586911422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 73
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3463d1738a19dfc0800000000000000
+      internalID: -3469712886059539394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1670e79a0b9eb580800000000000000
+      internalID: -8809433351290063330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_76
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 113
+        width: 125
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c07c6b5ce0df00800000000000000
+      internalID: 1139670583130244260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_77
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 108
+        width: 104
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea042b252211f4970800000000000000
+      internalID: 8741224240863396014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 175
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c11946fd5217c50800000000000000
+      internalID: 6661146965252840487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de8ae23c4f89cd0800000000000000
+      internalID: -2551020069766763185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 145
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e417f162a1f1f70800000000000000
+      internalID: 9160068918133476927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_81
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735b9091a365e5d0800000000000000
+      internalID: -3033909228397177996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff458d658023b00800000000000000
+      internalID: 806716452342398869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348cf15fe9b8555b0800000000000000
+      internalID: -5380240664990595005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735614fd5dc51f0b0800000000000000
+      internalID: -5696669980003572425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a25d1d3ab95d9550800000000000000
+      internalID: 6169185720991568549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 29
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8948c69a7ea500800000000000000
+      internalID: 409399404161240102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_87
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e2c732d574fd1c0800000000000000
+      internalID: -4476781039230112149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_88
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1a47b8bf553110800000000000000
+      internalID: 1240002519364148282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 9
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80783d969ab2d1200800000000000000
+      internalID: 152325969025402632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 10
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ddfff1efcc24470800000000000000
+      internalID: 8377483648693165376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 9
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939aadbeb68cd2e0800000000000000
+      internalID: -2099655172477512801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2845ef6dccc37a820800000000000000
+      internalID: 2929376933105783938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 13
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3992181409558cd40800000000000000
+      internalID: 5604823814325217683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_94
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe40621b2f97a6610800000000000000
+      internalID: 1615237499626849519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a2579e75d136030800000000000000
+      internalID: 3486662799931026047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_96
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab037d5b3be94c260800000000000000
+      internalID: 7116987805839339706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe37a55df3eefc3d0800000000000000
+      internalID: -3184064453597826065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_98
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84de114c0e9624e0800000000000000
+      internalID: -2006742808477641589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_99
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d91634581d81f0800000000000000
+      internalID: -1041149188888733241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_100
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc72108e4087e2b0800000000000000
+      internalID: -5555330540693717774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_101
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c956be01a40e40b0800000000000000
+      internalID: -5742647385067726399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_102
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcf14427b1f5dea0800000000000000
+      internalID: -5848502772181107467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_103
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011b9d41e3f21270800000000000000
+      internalID: 8219900418899775755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_104
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7baee9a3508500800000000000000
+      internalID: 396408756527398481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87611cdacdb2b7ed0800000000000000
+      internalID: -2415288548346227080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_106
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 142
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330637d17c5da5e50800000000000000
+      internalID: 6798981638638493747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 165
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7483c379b0440ed10800000000000000
+      internalID: 2152795438455732295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_108
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 190
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673bf1318dd921b0800000000000000
+      internalID: -5680765907992103068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_109
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 175
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42aab76cdf73f70800000000000000
+      internalID: 9167074595456034024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_110
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc843a787910a5f00800000000000000
+      internalID: 1106198408800192719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enfasis_111
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 145
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf73b57a9651a4c0800000000000000
+      internalID: -4278042949625610293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enfasis_0: -8089880843757642890
+      enfasis_1: 5865472684627749769
+      enfasis_10: 43096662126213142
+      enfasis_100: -5555330540693717774
+      enfasis_101: -5742647385067726399
+      enfasis_102: -5848502772181107467
+      enfasis_103: 8219900418899775755
+      enfasis_104: 396408756527398481
+      enfasis_105: -2415288548346227080
+      enfasis_106: 6798981638638493747
+      enfasis_107: 2152795438455732295
+      enfasis_108: -5680765907992103068
+      enfasis_109: 9167074595456034024
+      enfasis_11: 1345833409227528571
+      enfasis_110: 1106198408800192719
+      enfasis_111: -4278042949625610293
+      enfasis_12: 2859102485413488704
+      enfasis_13: 6182105320869177593
+      enfasis_14: 5904614793693945037
+      enfasis_15: -3356893717567176429
+      enfasis_16: -4440669868073672886
+      enfasis_17: -527665027299733858
+      enfasis_18: 8448150607900672051
+      enfasis_19: 3285410752349872473
+      enfasis_2: -1146225859241888767
+      enfasis_20: 4124304238531821132
+      enfasis_21: -1659669296400272837
+      enfasis_22: 5066963650375843622
+      enfasis_23: -973713384918694554
+      enfasis_24: -212308653076966213
+      enfasis_25: 6446241099410310258
+      enfasis_26: -5211479637596564353
+      enfasis_27: -2288332120952504099
+      enfasis_28: -773758782509241570
+      enfasis_29: 3209455070476826008
+      enfasis_3: -461881545188444319
+      enfasis_30: 3726319637941243427
+      enfasis_31: -5816063855422596771
+      enfasis_32: -7968506050728280630
+      enfasis_33: 7827575188726516245
+      enfasis_34: -2303898913539663862
+      enfasis_35: 5384863998681249744
+      enfasis_36: -1354690027829363965
+      enfasis_37: 1896228399395504738
+      enfasis_38: 1639782774459326087
+      enfasis_39: -6823693634259830213
+      enfasis_4: -4351745676177841898
+      enfasis_40: 2485692235949973946
+      enfasis_41: 1059523951851151062
+      enfasis_42: -4200552930372105922
+      enfasis_43: -1224865825118472094
+      enfasis_44: 7548907003558694185
+      enfasis_45: 5910294129365436589
+      enfasis_46: 6293343478922364065
+      enfasis_47: 4414792611830736196
+      enfasis_48: 9155825181116316657
+      enfasis_49: 331159375705535234
+      enfasis_5: -4214573305062449543
+      enfasis_50: -1116954744625347099
+      enfasis_51: -5337398210744423857
+      enfasis_52: 7787587439329535222
+      enfasis_53: 3341168505118478036
+      enfasis_54: -6783302803579325670
+      enfasis_55: -2248307473271966380
+      enfasis_56: 8106957512999754623
+      enfasis_57: -6418883321614936584
+      enfasis_58: -1312036108401933746
+      enfasis_59: -6576470231162450009
+      enfasis_6: 7185591115789718493
+      enfasis_60: -2792798439825537911
+      enfasis_61: -8030829087744684327
+      enfasis_62: -803158611955267519
+      enfasis_63: -2492226531524418009
+      enfasis_64: 1330124190301114283
+      enfasis_65: -6737024018371753688
+      enfasis_66: -4443274286725768630
+      enfasis_67: 2803658345283445692
+      enfasis_68: -8928513552999227662
+      enfasis_69: -4456330027325884249
+      enfasis_7: 6350595378666204352
+      enfasis_70: -5513734167216530741
+      enfasis_71: 161141546443286222
+      enfasis_72: 6515464108148324460
+      enfasis_73: 1424817830586911422
+      enfasis_74: -3469712886059539394
+      enfasis_75: -8809433351290063330
+      enfasis_76: 1139670583130244260
+      enfasis_77: 8741224240863396014
+      enfasis_78: 6661146965252840487
+      enfasis_79: -2551020069766763185
+      enfasis_8: -529239209007626235
+      enfasis_80: 9160068918133476927
+      enfasis_81: -3033909228397177996
+      enfasis_82: 806716452342398869
+      enfasis_83: -5380240664990595005
+      enfasis_84: -5696669980003572425
+      enfasis_85: 6169185720991568549
+      enfasis_86: 409399404161240102
+      enfasis_87: -4476781039230112149
+      enfasis_88: 1240002519364148282
+      enfasis_89: 152325969025402632
+      enfasis_9: -75691483449949132
+      enfasis_90: 8377483648693165376
+      enfasis_91: -2099655172477512801
+      enfasis_92: 2929376933105783938
+      enfasis_93: 5604823814325217683
+      enfasis_94: 1615237499626849519
+      enfasis_95: 3486662799931026047
+      enfasis_96: 7116987805839339706
+      enfasis_97: -3184064453597826065
+      enfasis_98: -2006742808477641589
+      enfasis_99: -1041149188888733241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
