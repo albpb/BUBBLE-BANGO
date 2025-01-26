@@ -9,6 +9,6 @@ public class OptionsMenu : MonoBehaviour
 
     public void SetVolume (float volume) {
         //Debug.Log(volume);
-        audiomixer.SetFloat("Volume", volume);
+        ControladorSonidos.Instance.CambiarVol(volume);
     }
 }

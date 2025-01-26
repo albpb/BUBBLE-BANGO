@@ -26,4 +26,14 @@ public class ControladorSonidos : MonoBehaviour
     {
         audioSource.PlayOneShot(sonido);
     }
+    public void PararSonidos()
+    {
+        audioSource.Stop();
+    }
+
+    public void CambiarVol(float valor)
+    {
+        audioSource.volume = valor;
+    }
+
 }

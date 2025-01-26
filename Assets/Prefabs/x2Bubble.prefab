@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 5625730707190468764}
   - component: {fileID: 5471877346866957512}
   - component: {fileID: 1894783655696520723}
+  - component: {fileID: -7793103606861940042}
+  - component: {fileID: 2059889440827342288}
   m_Layer: 0
   m_Name: x2Bubble
   m_TagString: Untagged
@@ -144,3 +146,39 @@ MonoBehaviour:
   maxLifeTimer: 5
   bubblePop: {fileID: 8300000, guid: b2762a4a0c031d84fbc465ed4113f4ae, type: 3}
   scoreManager: {fileID: 0}
+--- !u!95 &-7793103606861940042
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307756099917079822}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f876193be586081468e4d58990392bcd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2059889440827342288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307756099917079822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056498d7628e7d7468f8b019ce67140e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sizeAmount: 1
+  sizeSpeed: 1

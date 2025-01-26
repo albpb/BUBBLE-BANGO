@@ -25,8 +25,6 @@ public class AmmoBubble : Bubble
         {
             Debug.Log("¡+1 Bullet! Ammo Bubble clicked!");
 
-            scoreManager.AddScore(100);
-
             ammoManager.AddAmmo(Random.Range(2, 4));
 
             animator.SetBool("Clicked", true);

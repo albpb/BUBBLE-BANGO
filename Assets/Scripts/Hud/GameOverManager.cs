@@ -11,6 +11,8 @@ public class GameOverManager : MonoBehaviour
     public ScoreManager scoreManager;
     public bool gameOver;
 
+    [SerializeField] private AudioClip loseSound;
+
     private AmmoManager ammoManager;
 
     private void Awake()
@@ -27,8 +29,10 @@ public class GameOverManager : MonoBehaviour
     {
         yield return new WaitForSeconds(0.1f);
 
-        if (ammoManager.GetAmmo() == 0)
+        if (ammoManager.GetAmmo() == 0 || loseReasonText == "You got poisoned by Bongo!")
         {
+            ControladorSonidos.Instance.EjecSonido(loseSound);
+
             gameOverScreen.SetActive(true);
             pointsText.text = "¡ " + scoreManager.currentScore.ToString() + " points !";
             loseReason.text = loseReasonText;

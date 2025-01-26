@@ -17,11 +17,9 @@ public class BoomBubble : Bubble
     {
         if (!FindAnyObjectByType<GameOverManager>().gameOver)
         {
-            Debug.Log("¡Boom! Explosive Bubble clicked!");
+            Debug.Log("¡Boom! Poisonous Bubble clicked!");
 
             animator.SetBool("Clicked", true);
-
-            FindAnyObjectByType<GameOverManager>().ShowGameOver("You got poisoned by Bongo!");
 
             StartCoroutine(DestroyAfterAnimation());
         }
@@ -34,7 +32,9 @@ public class BoomBubble : Bubble
 
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
 
-        yield return new WaitForSeconds(stateInfo.length);
+        FindAnyObjectByType<GameOverManager>().ShowGameOver("You got poisoned by Bongo!");
+       
+        yield return new WaitForSeconds(0.2f);
 
         Destroy(gameObject);
     }

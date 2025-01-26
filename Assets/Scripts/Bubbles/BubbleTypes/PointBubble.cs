@@ -19,7 +19,7 @@ public class PointBubble : Bubble
         {
             Debug.Log("¡+1 Point! Point Bubble clicked!");
 
-            scoreManager.AddScore(50);
+            scoreManager.AddScore(100);
             animator.SetBool("Clicked", true); 
             StartCoroutine(DestroyAfterAnimation());
 
