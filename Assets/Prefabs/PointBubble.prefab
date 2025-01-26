@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1021749952682861252}
   - component: {fileID: 6718679997826264781}
   - component: {fileID: 7938002232734739319}
+  - component: {fileID: 859345544108311734}
   m_Layer: 0
   m_Name: PointBubble
   m_TagString: Untagged
@@ -142,3 +143,25 @@ MonoBehaviour:
   oscillationSpeed: 4
   oscillationAmplitude: 0.02
   maxLifeTimer: 7
+--- !u!95 &859345544108311734
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737254753236613515}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f6eec3826aa0ccf4ab82102eeadc6124, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
