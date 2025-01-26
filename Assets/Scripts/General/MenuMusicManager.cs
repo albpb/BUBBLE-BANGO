@@ -6,6 +6,6 @@ public class MenuMusicManager : MonoBehaviour
     void Start()
     {
         ControladorSonidos.Instance.PararSonidos();
-        ControladorSonidos.Instance.EjecSonido(menuMusic);
+        ControladorSonidos.Instance.EjecSonidoConLoop(menuMusic, true);
     }
 }

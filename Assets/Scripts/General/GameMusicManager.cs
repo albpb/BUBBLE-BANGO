@@ -6,6 +6,6 @@ public class GameMusicManager : MonoBehaviour
     void Start()
     {
         ControladorSonidos.Instance.PararSonidos();
-        ControladorSonidos.Instance.EjecSonido(gameMusic);
+        ControladorSonidos.Instance.EjecSonidoConLoop(gameMusic, true);
     }
 }

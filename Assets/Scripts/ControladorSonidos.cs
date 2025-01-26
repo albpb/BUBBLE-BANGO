@@ -26,6 +26,13 @@ public class ControladorSonidos : MonoBehaviour
     {
         audioSource.PlayOneShot(sonido);
     }
+    public void EjecSonidoConLoop(AudioClip sonido, bool loop)
+    {
+        audioSource.clip = sonido;
+        audioSource.loop = loop;
+        audioSource.Play();
+    }
+
     public void PararSonidos()
     {
         audioSource.Stop();
